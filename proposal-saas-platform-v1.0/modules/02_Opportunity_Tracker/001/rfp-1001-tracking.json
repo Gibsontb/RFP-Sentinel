@@ -1,0 +1,7 @@
+{
+  "rfp_id": 1001,
+  "title": "Sample RFP",
+  "status": "In Review",
+  "notes": "Initial review complete. Awaiting Go/No-Go.",
+  "updated_by": "admin@example.com"
+}

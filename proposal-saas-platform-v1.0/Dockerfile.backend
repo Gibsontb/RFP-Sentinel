@@ -1,0 +1,12 @@
+
+FROM python:3.11-slim
+WORKDIR /app
+
+COPY backend /app/backend
+COPY modules /app/modules
+COPY onboarding /app/onboarding
+
+RUN pip install fastapi uvicorn apscheduler openai python-multipart python-dotenv
+
+ENV PYTHONPATH=/app
+CMD ["uvicorn", "backend.main:app", "--host", "0.0.0.0", "--port", "8000"]

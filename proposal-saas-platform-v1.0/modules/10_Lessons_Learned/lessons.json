@@ -1,0 +1,32 @@
+[
+  {
+    "rfp_id": "1001",
+    "date": "2024-06-05",
+    "team": "Red Team",
+    "lesson": "Starting compliance matrix earlier helped us ensure full traceability.",
+    "tags": [
+      "compliance",
+      "early planning"
+    ]
+  },
+  {
+    "rfp_id": "1002",
+    "date": "2024-05-18",
+    "team": "Proposal Manager",
+    "lesson": "Using AI assistant for technical writing cut review cycles by 30%.",
+    "tags": [
+      "AI",
+      "efficiency"
+    ]
+  },
+  {
+    "rfp_id": "1001",
+    "date": "2024-06-06",
+    "team": "Reviewer",
+    "lesson": "Need clearer ownership of pricing narrative \u2014 too many late edits.",
+    "tags": [
+      "ownership",
+      "pricing"
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "rfp_id": "1001",
+  "sections": {
+    "Executive Summary": {
+      "status": "Draft",
+      "comments": [
+        {
+          "reviewer": "Red Team",
+          "note": "Too generic \u2014 highlight win themes."
+        }
+      ]
+    },
+    "Technical Approach": {
+      "status": "Reviewed",
+      "comments": [
+        {
+          "reviewer": "Pink Team",
+          "note": "Add metrics from past performance."
+        }
+      ]
+    },
+    "Pricing Narrative": {
+      "status": "Draft",
+      "comments": []
+    }
+  }
+}

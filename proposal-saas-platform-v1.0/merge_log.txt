@@ -1,0 +1,13 @@
+
+=== Merge Log: Phase 6 – Deployment & Secrets ===
+
+🐳 Docker & Secrets Setup:
+- Dockerfile.backend – builds backend with Uvicorn, APScheduler, OpenAI
+- Dockerfile.frontend – optional build for React app
+- docker-compose.yml – runs both containers, exposes ports 8000 & 3000
+- .env.template – sample secrets file for OpenAI, SAM.gov
+
+📦 Run with:
+docker compose up --build
+
+✅ Ensures isolated containerized deployment, secure key handling, and full reproducibility.

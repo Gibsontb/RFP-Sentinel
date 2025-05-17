@@ -1,0 +1,27 @@
+{
+  "tenant_id": "001",
+  "business_name": "OM Group Inc.",
+  "naics": [
+    "541512",
+    "541511",
+    "541715"
+  ],
+  "psc": [
+    "D302",
+    "D307",
+    "AC61"
+  ],
+  "setasides": [
+    "SDVOSB"
+  ],
+  "keywords": [
+    "cloud",
+    "AI",
+    "DevSecOps",
+    "predictive maintenance"
+  ],
+  "agency": [
+    "Department of the Air Force",
+    "Department of Energy"
+  ]
+}

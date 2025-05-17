@@ -1,0 +1,43 @@
+[
+  {
+    "id": "CON-001",
+    "title": "Army Cloud Migration & Ops",
+    "customer": "US Army",
+    "status": "Completed",
+    "period": "2020-2022",
+    "tags": [
+      "cloud",
+      "devsecops",
+      "migration"
+    ],
+    "summary": "Led full-stack AWS GovCloud migration for legacy Army applications with zero downtime, achieving 38% operational cost reduction and FedRAMP High compliance in under 120 days."
+  },
+  {
+    "id": "CON-002",
+    "title": "USAF AI Predictive Maintenance",
+    "customer": "USAF",
+    "status": "Active",
+    "period": "2023-Present",
+    "tags": [
+      "AI",
+      "predictive",
+      "maintenance",
+      "DoD"
+    ],
+    "summary": "Developed AI-driven predictive maintenance algorithms using ML telemetry data from airframes. Improved mission-readiness by 27% while reducing false positives by 44%."
+  },
+  {
+    "id": "CON-003",
+    "title": "VA Digital Services Platform",
+    "customer": "Department of Veterans Affairs",
+    "status": "Won",
+    "period": "2024-2027",
+    "tags": [
+      "frontend",
+      "react",
+      "accessibility",
+      "veterans"
+    ],
+    "summary": "Delivering accessible React-based digital service portals with 508 compliance and seamless integration to VA backend systems, enabling veteran self-service access to benefits and claims."
+  }
+]

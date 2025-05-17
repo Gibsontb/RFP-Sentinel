@@ -1,0 +1,35 @@
+[
+  {
+    "source": "SAM.gov",
+    "id": "FA8201-24-R-0012",
+    "title": "Cloud Security Engineering Support",
+    "agency": "Department of the Air Force",
+    "naics": "541512",
+    "psc": "D307",
+    "match_score": 92,
+    "summary": "Supports ongoing RMF and DevSecOps compliance for AWS GovCloud systems.",
+    "url": "https://sam.gov/opp/FA8201-24-R-0012"
+  },
+  {
+    "source": "FedConnect",
+    "id": "DOE-RFI-24-0051",
+    "title": "AI-Driven Energy Forecasting",
+    "agency": "Department of Energy",
+    "naics": "541715",
+    "psc": "AC61",
+    "match_score": 87,
+    "summary": "Solicits research support in AI modeling and predictive forecasting tools for grid stability.",
+    "url": "https://www.fedconnect.net/FedConnect/DOE-RFI-24-0051"
+  },
+  {
+    "source": "GSA eBuy",
+    "id": "GS-35F-123DA",
+    "title": "Web Portal Redesign for SBA",
+    "agency": "Small Business Administration",
+    "naics": "541511",
+    "psc": "D302",
+    "match_score": 78,
+    "summary": "Rebuild customer-facing SBA portals using modern ReactJS and accessibility-first design.",
+    "url": "https://www.ebuy.gsa.gov/ebuy/rfq/GS-35F-123DA"
+  }
+]

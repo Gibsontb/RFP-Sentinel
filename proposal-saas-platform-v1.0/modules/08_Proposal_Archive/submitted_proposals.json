@@ -1,0 +1,18 @@
+[
+  {
+    "rfp_id": "1001",
+    "title": "Army Cloud Migration",
+    "agency": "US Army",
+    "submitted": "2024-06-01",
+    "status": "Submitted",
+    "file_path": "modules/08_Proposal_Archive/001/rfp-1001.zip"
+  },
+  {
+    "rfp_id": "1002",
+    "title": "USAF Predictive Maintenance AI",
+    "agency": "USAF",
+    "submitted": "2024-05-15",
+    "status": "Submitted",
+    "file_path": "modules/08_Proposal_Archive/001/rfp-1002.zip"
+  }
+]
